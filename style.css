@@ -1,3 +1,16 @@
 
         body {
-            background-color: rgb(30, 30, 185);
+            background-color: #b11c1c;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #b4468a;
+            color: rgb(34, 62, 189)55, 255, 255);
+            text-align: center;
+            padding: 20px 0;
+            margin-bottom: 20px;
+        }
+        
