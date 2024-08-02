@@ -1,6 +1,6 @@
-<style>
+
         body {
-            font-family: Arial, sans-serif;
+            font-family: Arial, Helvetica, sans-serif, sans-serif;
             background-color: #f0f0f0;
             color: #333;
             line-height: 1.6;
@@ -8,7 +8,7 @@
             padding: 0;
         }
         header {
-            background-color: #4682b4;
+            background-color: #b4468a;
             color: white;
             text-align: center;
             padding: 20px 0;
@@ -19,7 +19,7 @@
             margin: 0 auto;
             padding: 20px;
             background-color: #fff;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            box-shadow: 0 0 10px rgba(129, 129, 129, 0.1);
             border-radius: 5px;
         }
         section {
@@ -44,4 +44,4 @@
             bottom: 0;
             width: 100%;
         }
-    </style>
+    
