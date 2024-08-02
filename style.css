@@ -1,15 +1,16 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    color: #745d5d;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
+:root {
+    --cor-fundo: #01080E;
+    --cor-principal: #0B0D20;
+    --cor-secundaria: #212333;
+    --cor-destaque: #2BDEFD;
+    --cor-texto: #D7F9FF;
 }
-header {
-    background-color: #b44646;
-    color: white;
-    text-align: center;
-    padding: 20px 0;
-    margin-bottom: 20px;
+
+body {
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
